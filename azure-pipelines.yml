@@ -5,7 +5,7 @@ trigger:
 
 pool: 
     name: PROD-FACTORY
-    demands: MSBuild_17.0
+    demands: []
 
 variables:
     buildConfiguraion: 'Release'
